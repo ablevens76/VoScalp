@@ -1,0 +1,5 @@
+{
+  "name": "Vocal Sculptor V2",
+  "description": "The Photoshop for Lyrics. A precision phonetic editing suite for AI music generation (Suno, Udio) that allows granular control over accents, stress, and timing.",
+  "requestFramePermissions": []
+}
